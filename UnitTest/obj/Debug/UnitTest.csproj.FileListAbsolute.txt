@@ -1,0 +1,12 @@
+D:\super_shop_management_system\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+D:\super_shop_management_system\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\super_shop_management_system\UnitTest\bin\Debug\UnitTest.dll
+D:\super_shop_management_system\UnitTest\bin\Debug\UnitTest.pdb
+D:\super_shop_management_system\UnitTest\bin\Debug\CSE411_Project.exe
+D:\super_shop_management_system\UnitTest\bin\Debug\nunit.framework.dll
+D:\super_shop_management_system\UnitTest\bin\Debug\itextsharp.dll
+D:\super_shop_management_system\UnitTest\bin\Debug\CSE411_Project.pdb
+D:\super_shop_management_system\UnitTest\bin\Debug\CSE411_Project.exe.config
+D:\super_shop_management_system\UnitTest\bin\Debug\nunit.framework.xml
+D:\super_shop_management_system\UnitTest\obj\Debug\UnitTest.dll
+D:\super_shop_management_system\UnitTest\obj\Debug\UnitTest.pdb
